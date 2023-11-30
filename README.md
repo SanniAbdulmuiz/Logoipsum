@@ -1,0 +1,2 @@
+# Logoipsum
+Subscription made easy
