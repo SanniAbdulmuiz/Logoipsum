@@ -141,6 +141,17 @@
 /* **************** */
 /* Below 544px (Phones) 544px / 16px = 34em*/
 /* **************** */
+.section-hero,
+.section-features,
+.section-blog,
+.section-pricing {
+  padding: 7rem 0;
+}
+
+.section-logo {
+  padding: 2rem 0;
+}
+
 @media (max-width: 34em) {
   .grid {
     row-gap: 4rem;
